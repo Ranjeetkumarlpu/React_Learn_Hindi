@@ -1,5 +1,13 @@
 # React_Learn_Hindi
 
+Any Old For RUN Only Two Steps:
+
+01. npm install
+
+02. npm start
+
+03. Successfully Localhost :3000
+
 Link : https://www.youtube.com/watch?v=-mJFZp84TIY&list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt
 
 Link : https://www.youtube.com/watch?v=avZ7EBUl3Ko
